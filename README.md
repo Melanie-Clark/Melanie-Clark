@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mel!
+# 👋 Hi, I'm Mel! 👋 
 ⚡ **Backend Developer | Python, SQL, PHP, APIs | Clinical Systems & Data Solutions**
 
 ## ❔ **Who Am I** ❔
