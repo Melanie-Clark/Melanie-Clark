@@ -3,11 +3,11 @@
 
 ## ❔ **Who Am I** ❔
 
-With 20 years of experience as a Clinical System Project Lead and Specialist, I’m transitioning into software development, focusing on backend technologies.
+With 20 years of experience as a Clinical System Project Lead and Specialist, I’m excited transitioning into software development, with a focus on backend technologies.
 
-I've always loved geeking out and learning to code and over the years have dabbled in the likes of Codecademy. However, after graduating from the **Code First Girls Software Engineering** nanodegree, in which I earned a Distinction, I took the opportunity to push myself to be creative and to design & develop projects, both personal and group.
+I've always loved geeking out and learning to code and over the years have dabbled in the likes of Codecademy. However, after graduating from the **Code First Girls Software Engineering** nanodegree, earning a Distinction, I took the opportunity to push myself to be creative designing & developing projects, both personal and group.
 
-My background in managing clinical systems projects has evidenced effective problem-solving, SDLC, and the importance of building reliable, user-friendly solutions. 
+My background in managing clinical systems projects has evidenced effective problem-solving, solid exposure of the SDLC, and embedded the importance of building reliable, user-friendly solutions. 
 
 
 ## ⚒️ Toolbox ⚒️
@@ -38,8 +38,8 @@ My background in managing clinical systems projects has evidenced effective prob
 -	**Pokémon Top Trumps**: Co-developed text-based game (Python, Turtle, Pokémon API)
 
 ## 😄 Fun Facts 😎
-- 🐶 I love teaching my little Cavachon new tricks and doggy dancging
-- 🎭 Theatre lover and former actress
+- 🐶 I love to teach my little Cavachon new tricks and doggy dancing
+- 🎭 Theatre lover and former amateur actress *(and a tiny embarrassing spot of pro!)*
 
 ... more to follow
 
