@@ -5,9 +5,13 @@
 
 After 20 years of developing and leading clinical systems solutions and projects, I've taken the leap and started the transition into software development, with a focus on backend technologies.
 
-I've always loved geeking out and learning to code (shoutout to my Codecademy days!), but things really leveled up when I completed the **Code First Girls** Software Engineering nanodegree with Distinction. Since then, I've been having fun designing and building a mix of personal and group projects and continue to expand my knowledge and experience.
+I've always loved geeking out and learning to code (shoutout to my Codecademy days!), but things really levelled up when I completed the **Code First Girls Software Engineering** nanodegree with Distinction. Since then, I've been having fun designing and building a mix of personal and group projects and continue to expand my knowledge and experience.
 
-My background in managing clinical systems projects has evidenced effective problem-solving, solid exposure of the SDLC, and embedded the importance of building reliable, user-friendly solutions. Give me a bug to fix or a problem to solve and I'll be there! 😄
+My background in managing clinical systems projects has evidenced effective problem-solving, solid exposure of the SDLC, and embedded the importance of building reliable, user-friendly solutions, whilst working in a collaborative environment.
+
+I've found myself in the role where people look to me for support and guidance or to help fix a problem. 
+
+Give me a bug to fix or a problem to solve and I'll be there! 😄
 
 
 ## ⚒️ Toolbox ⚒️
