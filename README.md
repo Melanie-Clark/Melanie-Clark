@@ -3,11 +3,11 @@
 
 ## ❔ **Who Am I** ❔
 
-With 20 years of experience as a Clinical System Project Lead and Specialist, I’m excited transitioning into software development, with a focus on backend technologies.
+After 20 years of developing and leading clinical systems solutions and projects, I've taken the leap and started the transition into software development, with a focus on backend technologies.
 
-I've always loved geeking out and learning to code and over the years have dabbled in the likes of Codecademy. However, after graduating from the **Code First Girls Software Engineering** nanodegree, earning a Distinction, I took the opportunity to push myself to be creative designing & developing projects, both personal and group.
+I've always loved geeking out and learning to code (shoutout to my Codecademy days!), but things really leveled up when I completed the **Code First Girls** Software Engineering nanodegree with Distinction. Since then, I've been having fun designing and building a mix of personal and group projects and continue to expand my knowledge and experience.
 
-My background in managing clinical systems projects has evidenced effective problem-solving, solid exposure of the SDLC, and embedded the importance of building reliable, user-friendly solutions. 
+My background in managing clinical systems projects has evidenced effective problem-solving, solid exposure of the SDLC, and embedded the importance of building reliable, user-friendly solutions. Give me a bug to fix or a problem to solve and I'll be there! 😄
 
 
 ## ⚒️ Toolbox ⚒️
