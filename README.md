@@ -9,7 +9,7 @@ I've always loved geeking out and learning to code (shoutout to my Codecademy da
 
 My background in managing clinical systems projects  demonstrates effective problem-solving, teamwork, understanding of the SDLC and the importance of building robust user-friendly solutions.
 
-I typically find myself in the role where people look to me for support and guidance or helping to fix a problem. Give me a bug to fix or a problem to solve and I'll be there ready to geek out and feeling super excited inside! 😄
+I typically find myself in the role where people look to me for support and guidance or help to fix a problem. Give me a bug to fix or a problem to solve and I'll be there ready to geek out and feeling super excited inside! 😄
 
 
 ## ⚒️ Toolbox ⚒️
