@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Mel! 👋 
-⚡ Junior Software Developer | Python, SQL, PHP, RESTful APIs, HTML, CSS, Ruby, Ruby on Rails| Passionate about building scalable and efficient solutions with a background in clinical systems & healthcare solutions
+⚡ Junior Software Developer | Python, SQL, PHP, RESTful APIs, HTML, CSS, Ruby, Ruby on Rails|\
+Passionate about building scalable and efficient solutions with a background in clinical systems & healthcare solutions
 
 ## ❔ **Who Am I** ❔
 
