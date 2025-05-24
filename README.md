@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mel! 👋 
-⚡ Junior Backend Developer | Python, SQL, PHP, RESTful APIs, HTML, CSS | Clinical Systems & Healthcare Solutions
+⚡ Junior Software Developer | Python, SQL, PHP, RESTful APIs, HTML, CSS, Ruby, Ruby on Rails| Passionate about building scalable and efficient solutions with a background in clinical systems & healthcare solutions
 
 ## ❔ **Who Am I** ❔
 
@@ -28,8 +28,8 @@ I typically find myself in the role where people look to me for support and guid
 
 
 ## 👩🏻‍💻 Currently working on...👩🏻‍💻
-- Maintaining & updating a PHP-based custom WordPress site in my existing role
-- Development of a Dog Tricks website
+- Wordpress/PHP learning portal: Enhancing custom plugins and developing new features (current role)
+- Development of a Ruby on Rails Dog Tricks website (hobby)
 
 ## 🗂️ Projects I have worked on so far...🗂️
 
