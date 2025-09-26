@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mel! 👋 
-⚡ Junior Software Developer | Python, SQL, PHP, RESTful APIs, HTML, CSS, Ruby, Ruby on Rails |\
+⚡ Junior Software Developer | Python, SQL, PHP, phpMyAdmin, RESTful APIs, HTML, CSS, Wordpress, Selenium |\
 _Passionate about building scalable and efficient solutions with a background in clinical systems & healthcare solutions_
 
 ## ❔ **Who Am I** ❔
@@ -22,12 +22,15 @@ I typically find myself in the role where people look to me for support and guid
 <img height=80 src="assets/insomnia.png" />
 <br>
 <img height=80 src="assets/php.png" />
+<img height=80 src="assets/phpMyAdmin.png" />
 <img height=80 src="assets/wordpress.png" />
-<br>
-<img height=80 src="assets/html_css.png" />
 <br>
 <img height=80 src="assets/github.png" />
 <img height=80 src="assets/git.png" />
+<br>
+<img height=80 src="assets/html_css.png" />
+<br>
+<img height=80 src="assets/selenium_webdriver.png" />
 <br>
 <img height=80 src="assets/ruby_on_rails.png" />
 <img height=80 src="assets/ruby.jpeg" />
@@ -35,6 +38,7 @@ I typically find myself in the role where people look to me for support and guid
 
 
 ## 👩🏻‍💻 Currently working on...👩🏻‍💻
+- GP_Appointment_Checker: Selenium automation to check for new appointments and send e-mail notifications.
 - Wordpress/PHP learning portal: Enhancing customised plugins and developing new features _(Work project)_
 - Dog Tricks Tracker web app _(Personal Project)_
 
@@ -50,7 +54,7 @@ I typically find myself in the role where people look to me for support and guid
 - **Monthly budget planner**: Developed an automated VBA script to streamline personal finance management.
 
 ## 😄 Fun Facts 😎
-- 🐶 I love to teach my little Cavachon new tricks and doggy dancing
+- 🐶 I love to teach my little Cavachon new tricks, and she loves getting lots of treats!
 - 🎭 Theatre lover and former amateur actress *(and a tiny embarrassing spot of pro!)*
 
 
