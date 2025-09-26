@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mel! 👋 
 ⚡ Junior Software Developer | Python, SQL, PHP, phpMyAdmin, RESTful APIs, HTML, CSS, Wordpress, Selenium |\
-_Passionate about building scalable and efficient solutions with a background in clinical systems & healthcare solutions_
+_Passionate about building scalable and efficient back-end solutions with a background in clinical systems & automation_
 
 ## ❔ **Who Am I** ❔
 
