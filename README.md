@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Mel! 👋 
-⚡ Junior Software Developer | Python, SQL, PHP, phpMyAdmin, RESTful APIs, HTML, CSS, Wordpress, Selenium |\
+Software Developer | Python, SQL, PHP, Wordpress, phpMyAdmin, Selenium\
 _Passionate about building scalable and efficient back-end solutions with a background in clinical systems & automation_
 
 ## ❔ **Who Am I** ❔
 
-After 20 years of developing and leading clinical systems solutions and projects, I've taken the leap and started the transition into software development, with a focus on backend technologies.
+After 20 years of developing and leading clinical systems solutions and projects, I've taken the leap and transitioned into software development, with a focus on backend technologies.
 
 I've always loved geeking out and learning to code (shoutout to my Codecademy days!), but things really levelled up when I completed the **Code First Girls Software Engineering** nanodegree with Distinction. Since then, I've been having fun designing and building a mix of personal and group projects and continue to expand my knowledge and experience.
 
 My background in managing clinical systems projects  demonstrates effective problem-solving, teamwork, understanding of the SDLC and the importance of building robust user-friendly solutions.
 
-I typically find myself in the role where people look to me for support and guidance or help to fix a problem. Give me a bug to fix or a problem to solve and I'll be there ready to geek out and feeling super excited inside! 😄
+I typically find myself in the role where people look to me for support and guidance or help to fix a problem. Give me a bug to fix or a problem to solve and I'll be ready to geek out, feeling super excited inside! 😄
 
 
 ## ⚒️ Toolbox ⚒️
@@ -40,10 +40,10 @@ I typically find myself in the role where people look to me for support and guid
 ## 👩🏻‍💻 Currently working on...👩🏻‍💻
 - GP_Appointment_Checker: Selenium automation to check for new appointments and send e-mail notifications.
 - Wordpress/PHP learning portal: Enhancing customised plugins and developing new features _(Work project)_
-- Dog Tricks Tracker web app _(Personal Project)_
 
 ## 🗂️ Projects I have worked on so far...🗂️
 
+- **Dog Tricks Tracker**: Developed a dog trick tracking web app, enabling users to log in and update their dogs’ tricks progress (Ruby on Rails, Ruby, PostgreSQL, HTML, CSS)
 - **Questive**: Co-developed a trivia-based murder mystery game (Python, SQL, Pygame, API)
 - **Frosty**: The Runaway Snowman! Shooter-style game for Code Jam, deployed to web using Pygbag
 - **Dogtective**: Collaborative team-built retro-style dodge game (Python, SQL, Pygame)
@@ -54,7 +54,7 @@ I typically find myself in the role where people look to me for support and guid
 - **Monthly budget planner**: Developed an automated VBA script to streamline personal finance management.
 
 ## 😄 Fun Facts 😎
-- 🐶 I love to teach my little Cavachon new tricks, and she loves getting lots of treats!
+- 🐶 I love teaching my little dog new tricks, and she loves getting lots of treats!
 - 🎭 Theatre lover and former amateur actress *(and a tiny embarrassing spot of pro!)*
 
 
